@@ -1,1 +1,1 @@
-rint("Hello Team- Its version:2...!!!")
+prit("Hello Team- Its version:2...!!!")
